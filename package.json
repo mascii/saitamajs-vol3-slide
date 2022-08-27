@@ -10,7 +10,10 @@
     "@slidev/cli": "^0.35.5",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*",
-    "vue-shadow-dom": "^4.2.0"
+    "vue-shadow-dom": "^4.2.0",
+    "vue-yup-form": "^1.0.0-beta.6",
+    "vuedraggable": "^4.1.0",
+    "yup": "^0.32.11"
   },
   "devDependencies": {
     "sass": "^1.54.5"
