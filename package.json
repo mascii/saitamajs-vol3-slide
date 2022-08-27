@@ -11,5 +11,8 @@
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*",
     "vue-shadow-dom": "^4.2.0"
+  },
+  "devDependencies": {
+    "sass": "^1.54.5"
   }
 }
